@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">javaintern</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">home</string>
+    <string name="network">network</string>
+    <string name="search">search</string>
+    <string name="Addyourstatus">Add your status</string>
+
+    <string name="viewbinding_activity">ViewBinding - Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="john">john</string>
+    <string name="textview">hi bruh\n</string>
+    <string name="select_your_availability">Select Your Availability</string>
+    <string name="hint">hint</string>
+    <string name="select_your_avai">just\n</string>
+    <string name="Add_your_status">Add your status</string>
+    <string name="hi_community">hi community</string>
+    <string name="select_hyper_local_distance">select hyper local distance</string>
+    <string name="select_purpose">select purpose</string>
+    <string name="coffee">coffee</string>
+    <string name="buisness">buisness</string>
+    <string name="shopping">shopping</string>
+    <string name="dating">dating</string>
+    <string name="dinning">dinning</string>
+    <string name="save">save\n</string>
+
+
+</resources>
